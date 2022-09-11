@@ -79,5 +79,5 @@ console.log('array:', array1);
 const array2=[1,2,3]
 array1=array1.concat(array2)
 console.log(array1)
-//console.log(array2)
+console.log(array2)
 
